@@ -1,0 +1,29 @@
+{
+  "name": "cli-table3-span",
+  "version": "0.0.1",
+  "description": "A Node.js module extending cli-table3 with automatic width adjustment and spanning functionality.",
+  "type": "module",
+  "main": "table.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boiler-limited/cli-table3-span.git"
+  },
+  "keywords": [
+    "cli-table",
+    "table",
+    "console",
+    "cli",
+    "formatting",
+    "span"
+  ],
+  "author": "Boiler Limited",
+  "license": "MIT",
+  "dependencies": {
+    "cli-table3": "^0.6.3"
+  }
+}
+
+
